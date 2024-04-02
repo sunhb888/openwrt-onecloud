@@ -1,5 +1,0 @@
-
-config dnsmasq
-	option rebind_protection '0'
-
-
